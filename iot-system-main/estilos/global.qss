@@ -1,0 +1,23 @@
+
+
+QLabel {
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+QPushButton:hover {
+    background-color: #43A047;
+}
+
+QPushButton:pressed {
+    background-color: #2E7D32;
+}

@@ -1,0 +1,139 @@
+{
+  "user_1_-4051635449190891426": {
+    "nome": "Maria Silva",
+    "email": "maria@teste.com",
+    "senha": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "telefone": "11999999999",
+    "cidade": "",
+    "estado": "",
+    "aceite_termos": false,
+    "aceite_privacidade": false,
+    "aceite_dados": false,
+    "crianca": {
+      "nome": "Pedro",
+      "apelido": "Pedrinho",
+      "nascimento": "15/05/2015",
+      "sexo": "",
+      "avatar": "Herói",
+      "serie": "",
+      "escola": "",
+      "turno": ""
+    },
+    "aprendizagem": {
+      "nivel": "",
+      "dificuldades": [],
+      "objetivo": ""
+    },
+    "fases_liberadas": 1
+  },
+  "user_2_-7597378736547942010": {
+    "nome": "Diego",
+    "email": "diego@gmail.com",
+    "senha": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "aceite_termos": false,
+    "aceite_privacidade": false,
+    "aceite_dados": false,
+    "crianca": {
+      "nome": "lucas",
+      "apelido": "luca",
+      "nascimento": "10/08/2005",
+      "sexo": "Indefinido",
+      "avatar": "Herói",
+      "serie": "",
+      "escola": "",
+      "turno": ""
+    },
+    "aprendizagem": {
+      "nivel": "",
+      "dificuldades": [],
+      "objetivo": ""
+    },
+    "fases_liberadas": 1
+  },
+  "user_3_6404907738497871434": {
+    "nome": "João",
+    "email": "joao@teste.com",
+    "senha": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "telefone": "",
+    "cidade": "",
+    "estado": "",
+    "aceite_termos": false,
+    "aceite_privacidade": false,
+    "aceite_dados": false,
+    "crianca": {
+      "nome": "Lucas",
+      "apelido": "Luc",
+      "nascimento": "01/01/2015",
+      "sexo": "",
+      "avatar": "Herói",
+      "serie": "",
+      "escola": "",
+      "turno": ""
+    },
+    "aprendizagem": {
+      "nivel": "",
+      "dificuldades": [],
+      "objetivo": ""
+    },
+    "fases_liberadas": 1
+  },
+  "user_4_-8881899748937710716": {
+    "nome": "amanda",
+    "email": "amanda@gmail.com",
+    "senha": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "telefone": "478569856985",
+    "cidade": "feira",
+    "estado": "BA",
+    "aceite_termos": true,
+    "aceite_privacidade": true,
+    "aceite_dados": true,
+    "crianca": {
+      "nome": "adele",
+      "apelido": "dedely",
+      "nascimento": "09/10/2025",
+      "sexo": "Menina",
+      "avatar": "Herói",
+      "serie": "Pré I",
+      "escola": "",
+      "turno": ""
+    },
+    "aprendizagem": {
+      "nivel": "Ainda não reconhece letras",
+      "dificuldades": [
+        "Dificuldade de atenção"
+      ],
+      "objetivo": "Aprender o alfabeto"
+    },
+    "fases_liberadas": 1
+  },
+  "user_5_5954155187432002384": {
+    "nome": "Amanda",
+    "email": "admin@gmail.com",
+    "senha": "114663ab194edcb3f61d409883ce4ae6c3c2f9854194095a5385011d15becbef",
+    "telefone": "75998213659",
+    "cidade": "Feira de Santana",
+    "estado": "BA",
+    "aceite_termos": true,
+    "aceite_privacidade": true,
+    "aceite_dados": true,
+    "crianca": {
+      "nome": "Adele",
+      "apelido": "Dedeli",
+      "nascimento": "05052023",
+      "sexo": "Menina",
+      "avatar": "Herói",
+      "serie": "Pre I",
+      "escola": "",
+      "turno": ""
+    },
+    "aprendizagem": {
+      "nivel": "Ainda nao reconhece letras",
+      "dificuldades": [],
+      "objetivo": "Aprender o alfabeto"
+    },
+    "fases_liberadas": 1
+  }
+}
